@@ -8,7 +8,8 @@
 - [Questions](#questions)
   
 ## Description
-    As a developer I want to create a README generator so I can quickly create a professional README for a new project. The code is written in JavaScript using node.js. Function is run by entering node index.js and following the prompt by answering the questions.  
+ This application is made to help users to keep track of their progress through the day. The user can write, save and retrieve
+    their notes. This application was developed by using express.js. 
 [Back to top](#)
   
 ## Installation
@@ -18,11 +19,11 @@
 [Back to top](#)
   
 ## Screenshot of Terminal
-![Image](./IMG/)
+![Image](./Develop/public/assets/IMG/chall011term.png)
 
 ## Screenshot of Example
-![Image](./IMG/)
-![Image](./IMG/)
+![Image](./Develop/public/assets/IMG/chall011.png)
+![Image](./Develop/public/assets/IMG/chall011exam.png)
 ## Github
     github.com/kevinl206
 [Back to top](#)
